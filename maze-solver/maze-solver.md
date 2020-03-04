@@ -1,5 +1,5 @@
 # maze-solver
-There are 2 or more people trying to schedule a meeting, but everyone has their own stuff to do on that day, they need a program to give them the available hours they have for scheduling this meeting.
+Make a program that can get a img of a maze and create a copy of this img with the path drawn into the img.
 
 
 ## Solutions
