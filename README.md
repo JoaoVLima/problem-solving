@@ -7,3 +7,6 @@ This is my best attempts on solving problems using code.
 
 [maze-solver]: maze-solver/maze-solver.md
 * [maze-solver]
+
+[lockers-problem]: lockers-problem/lockers-problem.md
+* [lockers-problem]
