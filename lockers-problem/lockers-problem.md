@@ -7,6 +7,19 @@ The student 2 will close all the even numbers.
 
 And we want to know in the end, what are the lockers that are open.
 
+|     | 1 | 2 | 3 | 4 | 5 |
+|:---:|---|---|---|---|---|
+| 0   | f | f | f | f | f |
+| 1   | t | t | t | t | t |
+| 2   |   | f |   | f |   |
+| 3   |   |   | f |   |   |
+| 4   |   |   |   | t |   |
+| 5   |   |   |   |   | f |
+| res | t | f | f | t | f |
+
+return = [1,4]
+
+
 ## Solutions
 
 [Python]: Python/lockers-problem.py
