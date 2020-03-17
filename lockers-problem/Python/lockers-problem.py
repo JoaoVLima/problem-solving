@@ -1,14 +1,3 @@
-#     1 2 3 4 5
-#     f f f f f
-
-# 1   t t t t t
-# 2     f   f  
-# 3       f    
-# 4         t  
-# 5           f
-# res t f f t f
-# [1,4]
-
 def lockers(n:int):
     arr = []
     for i in range(n):
@@ -39,3 +28,4 @@ def show_opened(arr:list):
     return arr2
 
 show_opened(open_close(lockers(1000)))
+#[1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 900, 961]
