@@ -27,8 +27,7 @@ def available_times(arr:list,arr_dailybounds:list):
     for h in range(begin[0],end[0]+1):
         if h==begin[0]:
             for m in range(begin[1],60):
-                #print(f'{h} {m}')
-
+                print(f'{h} {m}')
         else:
             for m in range(60):
                 #print(f'{h} {m}')
